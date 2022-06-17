@@ -1,6 +1,5 @@
 # Create a function called main.
-def main():
-    a = 17
+def main(a):
     return a
 # Create function arguments a.
 
